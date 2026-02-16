@@ -57,7 +57,7 @@ export default function Billing() {
 
   const isMonthly = (() => {
     const n = String(state.selectedPackageName ?? "").toLowerCase().replace(/\s+/g, " ").trim();
-    return n.includes("full digital marketing") || n.includes("blog + social media") || n.includes("blog+social media");
+    return n.includes("full digital marketing") || n.includes("content marketing") || n.includes("blog + social media") || n.includes("blog+social media");
   })();
 
   const durationPriceIdr = useMemo(() => {
