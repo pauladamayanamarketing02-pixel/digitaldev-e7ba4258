@@ -22,7 +22,7 @@ export const dict: Dict = {
   "footer.terms": { id: "Syarat Layanan", en: "Terms of Service" },
 
   // Home
-  "home.seoTitle": { id: "EasyMarketingAssist | Pemasaran Digital Mudah", en: "EasyMarketingAssist | Easy Digital Marketing" },
+  "home.seoTitle": { id: "DigitalDev | Pemasaran Digital Mudah", en: "DigitalDev | Easy Digital Marketing" },
   "home.seoDesc": { id: "Cari domain dan dapatkan website profesional dalam hitungan menit.", en: "Search a domain and get a professional website in minutes." },
   "home.h1a": { id: "Solusi Pemasaran Digital", en: "Digital Marketing Solutions" },
   "home.h1b": { id: "Untuk Bisnis Anda", en: "For Your Business" },
